@@ -1,0 +1,20 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "complete javascript testing",
+  "main": "arrayclone.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heghelon/javascript-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heghelon/javascript-testing/issues"
+  },
+  "homepage": "https://github.com/heghelon/javascript-testing#readme"
+}
