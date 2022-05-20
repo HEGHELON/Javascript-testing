@@ -1,5 +1,5 @@
 function ArrayClone(arr) {
-  return [...arr]
+  return [...arr];
 }
 
-module.extport = ArrayClone
+module.exports = ArrayClone;
